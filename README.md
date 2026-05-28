@@ -61,3 +61,44 @@ Plataforma web tipo red social enfocada en lectores, donde los usuarios pueden r
 Código Fuente Backend: [Repositorio Backend](https://github.com/Diegocstln/booksnexus-back)
 Código Fuente Frontend: [Repositorio Frontend](https://github.com/Diegocstln/mi-proyecto-bd)
 Demo en Vivo: [Booksnexus Web](https://diegocstln.github.io/mi-proyecto-bd/)
+
+## Proyecto 2: DestinyCafe (Sistema de Gestión para Cafetería Artesanal)
+
+Sistema web integral para la gestión de una cafetería artesanal ubicada en Reforma, CDMX, que atiende tanto a turistas como a locales. La plataforma permite administrar clientes, productos, insumos, inventario, proveedores, ventas y horarios de empleados, resolviendo necesidades reales de control de stock, trazabilidad de compras y análisis de experiencia del cliente.
+
+###  Tecnologías
+
+- **Frontend:** HTML5, CSS3 y JavaScript 
+- **Base de Datos:** PostgreSQL (Supabase)
+- **Despliegue:** GitHub Pages (Frontend) y Supabase Cloud (Backend y BD)
+
+<details>
+<summary> Ver imagenes del proyecto </summary>
+
+| | |
+|---|---|
+| <img loading="lazy" src="https://github.com/PerlaSantos/DestinyCafe/blob/0aeb3ca476dc1d6d692dc9c9264c140ae76295cd/Principal.png" alt="Vista principal de DestinyCafe - Página de inicio" width="800"/> | |
+| <img loading="lazy" src="https://github.com/PerlaSantos/DestinyCafe/blob/0aeb3ca476dc1d6d692dc9c9264c140ae76295cd/Areas.png" alt="Sección de áreas: Barra, Cocina y Panadería" width="400"/> | <img loading="lazy" src="https://github.com/PerlaSantos/DestinyCafe/blob/0aeb3ca476dc1d6d692dc9c9264c140ae76295cd/Inventario.png" alt="Formulario de registro de insumos" width="400"/> |
+| <img loading="lazy" src="https://github.com/PerlaSantos/DestinyCafe/blob/0aeb3ca476dc1d6d692dc9c9264c140ae76295cd/Ventas.png" alt="Formulario de registro de ventas." width="800"/> | |
+</details>
+
+###  Funcionalidades principales
+
+- **Control de Inventario:** Registro de insumos, stock actual, stock mínimo (alertas de reabastecimiento con 3-4 días de anticipación) y fechas de vencimiento.
+- **Administración de Proveedores:** Catálogo de proveedores (Central de Abastos, Costco, Sam's Club, tiendas locales), registro de compras, facturas y reseñas.
+- **Gestión de Ventas:** Registro de transacciones, detalles de venta, métodos de pago, propinas y descuentos. Generación de reportes semanales de productos más y menos vendidos.
+
+
+###  Integrantes del equipo de desarrollo
+
+- Alarcón Herrera Julio Alexis
+- Cedillo Baeza Martha Clara
+- Santos Martínez Perla
+
+###  Enlaces para consultar el proyecto
+
+- **Código Fuente (Frontend):** [Repositorio en GitHub](https://github.com/PerlaSantos/DestinyCafe.git)
+- **Demo en Vivo:** [DestinyCafe Web](https://perlasantos.github.io/DestinyCafe/)
+
+---
+
