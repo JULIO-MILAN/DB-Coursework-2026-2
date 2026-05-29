@@ -33,7 +33,7 @@ Recomendaciones para el PR:
 
 - Título sugerido: `Add <nombre corto del proyecto>`
 - En la descripción incluye:
-	- Nombre completo y matrícula
+	- Nombre completo y matrícula.
 	- Resumen del proyecto (2–3 líneas)
 	- Pasos para ejecutar y comprobar la entrega
 	- Notas sobre requisitos especiales (puertos, credenciales de prueba, etc.)
@@ -41,7 +41,7 @@ Recomendaciones para el PR:
 
 Plantilla breve para la descripción del PR:
 
-# Proyecto3: MANTRA — Red social de eventos
+# Proyecto: MANTRA — Red social de eventos
 
 MANTRA es una plataforma web tipo red social enfocada en la publicación, descubrimiento e interacción alrededor de eventos. El sistema permite que los usuarios se registren según su rol: asistidor u organizador. Los asistidores pueden descubrir eventos, confirmar asistencia, comentar, dejar reseñas, seguir organizadores, agregar amigos y usar chat. Los organizadores pueden publicar eventos con imágenes promocionales, administrar sus eventos y consultar métricas básicas.
 
@@ -49,7 +49,7 @@ MANTRA es una plataforma web tipo red social enfocada en la publicación, descub
 
 **Backend:** Node.js con Express.js
 **Base de Datos:** PostgreSQL en Render
-**Frontend:** HTML, CSS y JavaScript
+**Frontend:** HTML, CSS y JavaScript 
 **Almacenamiento de imágenes:** Cloudinary
 **Despliegue:** Render
 **Control de versiones:** Git y GitHub
@@ -72,6 +72,9 @@ MANTRA es una plataforma web tipo red social enfocada en la publicación, descub
 * Logros de usuario.
 * Chat básico entre amigos.
 * Dashboard de organizador con métricas.
+* Persistencia de datos mediante PostgreSQL.
+* API REST para comunicación entre frontend y backend.
+
 
 ## 🖼️ Capturas de pantalla
 
@@ -108,24 +111,3 @@ https://github.com/JULIO-MILAN/mantra-backend
 https://mantra-backend-24g1.onrender.com/
 
 
-## 📂 Estructura general del proyecto
-
-```txt
-MANTRA/
-├── index.js
-├── package.json
-├── index.html
-├── feed-eventos.html
-├── dashboard-organizador.html
-├── perfil.html
-├── comunidad.html
-├── social.html
-├── chat.html
-└── capturas/
-    ├── landing.png
-    ├── feed-eventos.png
-    ├── dashboard-organizador.png
-    ├── comunidad.png
-    ├── perfil.png
-    └── chat.png
-```
