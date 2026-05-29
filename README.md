@@ -217,7 +217,7 @@ El sistema está dividido en secciones interactivas que se actualizan de forma a
 Código Fuente: [Repositorio](https://github.com/aeiou520814-del/abc)
 Demo en Vivo: [Página Web](https://aeiou520814-del.github.io/abc/)
 
-# Proyecto 5: MANTRA — Red social de eventos
+# Proyecto 7: MANTRA — Red social de eventos
 
 MANTRA es una plataforma web tipo red social enfocada en la publicación, descubrimiento e interacción alrededor de eventos. El sistema permite que los usuarios se registren según su rol: asistidor u organizador. Los asistidores pueden descubrir eventos, confirmar asistencia, comentar, dejar reseñas, seguir organizadores, agregar amigos y usar chat. Los organizadores pueden publicar eventos con imágenes promocionales, administrar sus eventos y consultar métricas básicas.
 
