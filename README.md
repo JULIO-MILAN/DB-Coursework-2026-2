@@ -555,27 +555,25 @@ MANTRA es una plataforma web tipo red social enfocada en la publicación, descub
 
 ### Landing page
 
-<img src="./capturas/landing.png" alt="Landing page de MANTRA" loading="lazy" width="700">
+<img src="https://github.com/user-attachments/assets/42a1b548-17ca-46eb-aeef-fc862a6ce4c0" alt="Landing page de MANTRA" loading="lazy" width="700">
+
 
 ### Feed de eventos
 
-<img src="./capturas/feed-eventos.png" alt="Feed de eventos" loading="lazy" width="700">
+<img src="https://github.com/user-attachments/assets/6c369928-ee59-4f45-bce8-97b4a5c7edde" alt="Feed de eventos" loading="lazy" width="700">
 
 ### Dashboard organizador
 
-<img src="./capturas/dashboard-organizador.png" alt="Dashboard del organizador" loading="lazy" width="700">
+<img src="https://github.com/user-attachments/assets/873197d9-57de-4f03-9024-a659d2f122a4" alt="Dashboard del organizador" loading="lazy" width="700">
 
 ### Comunidad
 
-<img src="./capturas/comunidad.png" alt="Comunidad MANTRA" loading="lazy" width="700">
+<img src="https://github.com/user-attachments/assets/6ef71a19-5c95-4625-8077-2fa7774410f2" alt="Comunidad MANTRA" loading="lazy" width="700">
 
-### Perfil de usuario
-
-<img src="./capturas/perfil.png" alt="Perfil de usuario" loading="lazy" width="700">
 
 ### Chat
 
-<img src="./capturas/chat.png" alt="Chat entre usuarios" loading="lazy" width="700">
+<img src="https://github.com/user-attachments/assets/be749db0-1f92-4e3f-9688-544ce48c7792" alt="Chat entre usuarios" loading="lazy" width="700">
 
 ## 🔗 Enlaces
 
