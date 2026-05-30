@@ -479,7 +479,7 @@ Para ingresar al sistema con privilegios totales de administrador y evaluar el f
 * **Código Fuente:** [Repositorio Notaría 105](https://github.com/s06008525-max/notaria-105)
 * **Demo en Vivo:** [notaria105](http://roberto.notario@notaria105.com)
 
-# Proyecto 11 Refaccionaria Leo 🚗
+# Proyecto 11: Refaccionaria Leo 🚗
 
 ## 👥 Equipo de Desarrollo
 * **Martinez Marin Nahum**
@@ -513,6 +513,43 @@ Este proyecto consiste en un sitio web de comercio electrónico para una refacci
 * [Sitio Web en Vivo](https://nahum1802.github.io/Refaccionaria-Leo/)
 
 
+
+=======
+## Proyecto 12: Distribuidora de Abarrotes Kafra
+
+Sistema integral para la gestión de inventario, ventas y distribuicion de abarrotes.
+
+### 🛠️ Tecnologías
+* **Backend:** Node.js y Express
+* **Base de Datos:** PostgreSQL 
+* **Frontend:** HTML, CSS y JavaScript
+* **Hosting del Frontend:** Github Pages
+* **Hosting de la base de datos y backend:** Render
+
+<details>
+<summary>🖼️ Ver capturas de pantalla</summary>
+
+| | |
+|---|---|
+| <img loading="lazy" src="https://github.com/user-attachments/assets/4e5635a8-4fe3-4789-a8aa-ad3ef39d7300" alt="Pantalla de login" width="800"/> | |
+| <img loading="lazy" src="https://github.com/user-attachments/assets/9317424e-674d-4877-a1bd-7e6cb287e254" alt="Pantalla de inicio admin" width="800"/> | |
+| <img loading="lazy" src="https://github.com/user-attachments/assets/1d013572-cf13-4fa7-bd7a-c60fc9e334eb" alt="Detalles tabla trabajador" width="800"/> | |
+
+</details>
+
+### 🔗 Enlaces
+* **Código Fuente:** [Repositorio en GitHub](https://github.com/DerekArenas/kafra-dashboard)
+* **Demo en Vivo (Github Pages):** [Pagina Distribuidora Kafra](https://derekarenas.github.io/kafra-dashboard/)
+
+<details>
+<summary>🖼️ Login para consulta</summary>
+User:
+consulta
+Password:
+rdBg2yGGGR
+</details>
+
+  
 # Proyecto 15: MANTRA — Red social de eventos
 
 MANTRA es una plataforma web tipo red social enfocada en la publicación, descubrimiento e interacción alrededor de eventos. El sistema permite que los usuarios se registren según su rol: asistidor u organizador. Los asistidores pueden descubrir eventos, confirmar asistencia, comentar, dejar reseñas, seguir organizadores, agregar amigos y usar chat. Los organizadores pueden publicar eventos con imágenes promocionales, administrar sus eventos y consultar métricas básicas.
